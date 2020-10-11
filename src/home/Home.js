@@ -10,6 +10,7 @@ function Home() {
 
             <div className="home__row">
                 <Product
+                    id={5165}
                     title="Lorem ipsum, or lipsum as it is sometimes known."
                     price={29.99}
                     image="https://m.media-amazon.com/images/I/41p0PLiCyeL._AC_SR400,600_.jpg"
